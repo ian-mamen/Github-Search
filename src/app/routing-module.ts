@@ -6,7 +6,6 @@ import { UserComponent } from './user/user.component';
 import { AboutComponent } from './about/about.component';
 import { NotFoundComponent } from './not-found/not-found.component'
 
-
 const routes:Routes=[
     {path:"user",component:UserComponent},
     {path:"about",component:AboutComponent},
@@ -24,6 +23,5 @@ const routes:Routes=[
     declarations: []
   })
 
-export class Routing.module {
-
+export class RoutingModule {
 }
