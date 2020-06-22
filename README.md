@@ -1,3 +1,38 @@
+## Project name:
+
+Github-Search
+
+## Author:
+Ian Amuga
+
+## Contact information:
+
+1. 
+2. Email: amuga72@gmail.com;
+3. Facebook: Ian Mamen;
+4. 
+
+## Project description:
+
+ Create a website where users may enter a GitHub username into a form, submit it, and see names and descriptions of that person's public repositories. A person can also look for repositories.
+
+ ## Technology used:
+
+ 1. Angular js
+ 2. Node js
+ 3. Html
+ 4. Typescript
+
+ 
+ ## The link to live site on GitHub Pages is :
+ 
+ https://
+
+
+
+
+
+
 # GithubSearch
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.7.
